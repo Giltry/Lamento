@@ -1,0 +1,4 @@
+Texto Colo 0
+Objetos Color 3
+Ubicaciones Color 14
+Personas Color
