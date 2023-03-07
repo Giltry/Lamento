@@ -50,5 +50,5 @@ null,
 {"id":48,"expanded":false,"name":"3510 - Casa Montaña","order":49,"parentId":47,"scrollX":1516.8,"scrollY":1442.3999999999999},
 {"id":49,"expanded":false,"name":"3600 - Superior Iz Marigold","order":50,"parentId":36,"scrollX":1516.8,"scrollY":1442.3999999999999},
 {"id":50,"expanded":true,"name":"Castillo 2F","order":8,"parentId":15,"scrollX":1404,"scrollY":783.4285714285713},
-{"id":51,"expanded":false,"name":"Castillo 3F","order":9,"parentId":50,"scrollX":1404,"scrollY":783.4285714285713}
+{"id":51,"expanded":false,"name":"Castillo 3F","order":9,"parentId":50,"scrollX":1012,"scrollY":1143}
 ]
